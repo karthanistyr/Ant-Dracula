@@ -4,3 +4,7 @@ node_modules/
 # Sass
 .sass-cache/
 *.css.map
+
+# generated files
+*.png
+gtk-*/ap*
